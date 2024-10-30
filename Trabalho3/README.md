@@ -1,5 +1,12 @@
 # TRABALHO 3 - CONJUNTO DE DADOS POPULACIONAIS
 
+### CRÉDITOS:
+
+`Adilson Gomides Junior`
+
+`Gabriel da Silva Ribeiro`
+
+
 ### OBJETIVO:
 
 Trabalho desenvolvido com o intuito de criar um programa em c++ para receber dados populacionais e utilizar algoritmos de ordenação para organizá-los em ordem crescente e apresentar para o usuário no final.
