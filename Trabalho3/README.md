@@ -101,7 +101,14 @@ Valor dos dados:
 
 ### ESTRUTURA DO PROJETO:
 
-Trabalho3
-`README.md`
-- `trabalho3.cpp`
-- `fluxograma3.pdf`
+
+Trabalho3  
+
+
+├── README.md
+
+
+├── trabalho3.cpp 
+
+
+└── fluxograma3.pdf
